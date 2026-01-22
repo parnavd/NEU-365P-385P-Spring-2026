@@ -104,7 +104,7 @@ Machine learning
 
     </details>
 
-12. <details><summary>Feb 19 R - MIDTERM EXAM</summary>
+12. <details><summary>Feb 19 R - EXAM 1</summary>
 
      - Cummulative exam for all topics covered up to this point.
 
@@ -178,7 +178,13 @@ Machine learning
 
     </details>
 
-19. <details><summary>Mar 24 T - EEG and RNAseq datasets</summary>
+19. <details><summary>Mar 24 T - EXAM 2</summary>
+
+     - Cummulative exam for all topics covered up to this point, but will focus more on the topics covered after exam 1.
+
+    </details>
+
+20. <details><summary>Mar 26 R - EEG and RNAseq datasets</summary>
 
      - You will apply PCA to EEG time series.
       - You will be able to cluster time series and visualize the clustering in a low number of PCs.
@@ -190,7 +196,7 @@ Machine learning
 
 Modeling time series
 ---
-20. <details><summary>Mar 26 R - Data series and convolution</summary>
+21. <details><summary>Mar 31 T - Data series and convolution</summary>
 
      - You will appreciate that data points in sequences are correlated (unless pure noise) as opposed to independent random variables.
      - You will be appreciate how undersampling can introduces aliasing artifacts in a sequence.
@@ -207,7 +213,7 @@ Modeling time series
 
     </details>
 
-21. <details><summary>Mar 31 T - Leaky integrate and fire (LIF) neuron</summary>
+22. <details><summary>Apr 2 R - Leaky integrate and fire (LIF) neuron</summary>
 
      - You will appreciate how a cell membrane can be approximated by a simple RC circuit.
       - You will understand the concept of the LIF neuron model.
@@ -216,14 +222,14 @@ Modeling time series
 
     </details>
 
-22. <details><summary>Apr 2 R - LIF neuron with synaptic input</summary>
+23. <details><summary>Apr 7 T - LIF neuron with synaptic input</summary>
 
      - You will be able to simulate stochastic synaptic input to a LIF neuron.
       - You will appreciate how convulation can be used to integrate synaptic inputs.
 
     </details>
 
-23. <details><summary>Apr 7 T - Hidden Markov model (HMM) 1</summary>
+24. <details><summary>Apr 9 R - Hidden Markov model (HMM) 1</summary>
 
      - You will understand the concept of a hidden Markov model (HMM).
       - You will use an HMM to model current flowing through a single ion channel.
@@ -233,7 +239,7 @@ Modeling time series
 
     </details>
 
-24. <details><summary>Apr 9 R - Hidden Markov model (HMM) 2</summary>
+25. <details><summary>Apr 14 T - Hidden Markov model (HMM) 2</summary>
 
      - You will use an HMM to predict exons and introns in a nucleotide sequence.
 
@@ -241,7 +247,7 @@ Modeling time series
 
 Neural networks
 ---
-25. <details><summary>Apr 14 T - Feedforward neural network (FNN)</summary>
+26. <details><summary>Apr 16 R - Feedforward neural network (FNN)</summary>
 
      - You will understand the basic concept of a neural network as a universal function generator.
      - You will understand how the input and output layers of a neural network depend on the data and desired computation.
@@ -251,7 +257,7 @@ Neural networks
 
     </details>
 
-26. <details><summary>Apr 16 R - Convolutional neural network (CNN)</summary>
+27. <details><summary>Apr 21 T - Convolutional neural network (CNN)</summary>
 
      - You will be able to implement neural networks using PyTorch.
      - You will understand the basic concept of a CNN.
@@ -259,16 +265,8 @@ Neural networks
 
     </details>
 
-27. <details><summary>Apr 21 T - Recurrent neural network (RNN)</summary>
+28. <details><summary>Apr 23 R - EXAM 3</summary>
 
-     - You will understand the basic concept of a RNN.
-     - You will appreciate that RNNs can be used to model sequences.
-     - You will implement a long/short term memory (LSTM) neural network.
-
-    </details>
-
-28. <details><summary>Apr 23 R - FINAL EXAM</summary>
-
-     - Cummulative exam for the entire semester, but will focus more on the topics covered after the midterm exam.
+     - Cummulative exam for the entire semester, but will focus more on the topics covered after exam 2.
 
     </details>
